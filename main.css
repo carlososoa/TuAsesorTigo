@@ -77,7 +77,7 @@ body{
     margin: auto;
     width: 10%;
     left: 10%;
-    margin-top: 80px;
+    margin-top: 0px;
 
 }
 .logofacebook:hover{
@@ -92,6 +92,12 @@ body{
     text-align: center;
     padding-bottom: 10px;
 
+}
+.comprahoy{
+    margin: auto;
+    display: block;
+    width: 100%;
+    left: 100%;
 }
 
 .img-planesm img{
